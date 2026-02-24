@@ -53,11 +53,11 @@ END
 
 ```
 OUTPUT
-
-(Keil output screenshot can be inserted here)
+<img width="747" height="386" alt="Screenshot 2026-02-24 084231" src="https://github.com/user-attachments/assets/c661c5a3-c465-42c6-a779-7db42f3565a5" />
 
 ---
 MANUAL CALCULATIONS
+<img width="638" height="452" alt="Screenshot 2026-02-24 084240" src="https://github.com/user-attachments/assets/539b7c3e-c2b4-49f2-8ecc-3e9492030d29" />
 
 ---
 
